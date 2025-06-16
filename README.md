@@ -1,6 +1,6 @@
 # 📊 Elon Musk Tweet Sentiment Analysis: Before vs After Acquiring X (Twitter)
 
-This repository contains an NLP-based sentiment analysis of Elon Musk's tweets before and after his acquisition of X (formerly Twitter). The analysis provides insight into how the tone and sentiment of his tweets evolved over time.
+This repository contains an NLP-based sentiment analysis of Elon Musk's tweets before and after his acquisition of X (formerly Twitter). The study provides insight into how the tone and sentiment of his tweets evolved.
 
 Using a dataset of Elon Musk’s tweets and applying **TextBlob** sentiment analysis, the project classifies tweets into **positive**, **neutral**, and **negative** categories. It further visualizes sentiment trends and word usage patterns across two time periods—**before** and **after October 10, 2022** (the acquisition date).
 
@@ -75,11 +75,11 @@ After the acquisition:
 - Neutral: **18,362 tweets (50.6%)**
 - Negative: **3,863 tweets (10.6%)**
 
-> ✅ **Observation**: While positivity remained mostly stable, there was a noticeable uptick in negative sentiment after the acquisition, alongside a decline in neutrality—indicating a more polarized public reaction in the post-acquisition phase..
+> ✅ **Observation**: While positivity remained mostly stable, there was a noticeable uptick in negative sentiment after the acquisition, alongside a decline in neutrality, indicating a more polarized public reaction in the post-acquisition phase..
 
 ---
 
-Note: Due to output size and complexity, GitHub may not render the notebook properly and display an "Unable to render code block" message. For a better experience, view the notebook via bviewer.org/github/JHK0723/musk-x-nlp-analysis/blob/main/NLP_analysis_Elon_Musk_tweets_before,during_and_after_ownership_of_X.ipynb.
+Note: Due to the notebook's output size and complexity, GitHub may not render it properly and display an "Unable to render code block" message. For a better experience, view the notebook via nbviewer.org/github/JHK0723/musk-x-nlp-analysis/blob/main/NLP_analysis_Elon_Musk_tweets_before,during_and_after_ownership_of_X.ipynb.
 
 ## 🚀 How to Run
 
