@@ -79,7 +79,7 @@ After the acquisition:
 
 ---
 
-Note: Due to the notebook's output size and complexity, GitHub may not render it properly and display an "Unable to render code block" message. For a better experience, view the notebook via [NBViewer](https://nbviewer.org/github/JHK0723/musk-x-nlp-analysis/blob/main/NLP_analysis_Elon_Musk_tweets_before,during_and_after_ownership_of_X.ipynb).
+Note: Due to the notebook's output size and complexity, GitHub may not render it properly and display an "Unable to render code block" message. For a better experience, view the notebook via [NBViewer](https://nbviewer.org/github/JHK0723/musk-x-nlp-analysis/blob/main/NLP_analysis_Elon_Musk_tweets_before,during_and_after_ownership_of_X.ipynb)
 .
 
 ## 🚀 How to Run
